@@ -1,0 +1,4 @@
+insurance_holder_name,claim_number,claim_description,claim_amount,claim_status,policy_number,date_of_incident
+John Doe,12345,Car accident,5000,Processing,ABC123,15-04-2024
+,,,,,,
+,,,,,,
